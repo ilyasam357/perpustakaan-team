@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<title> test | {{ $title }}</title>
+	<title> Perpustakaan | {{ $title }}</title>
 	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
 	<link rel="icon" href="../img/icon.ico" type="image/x-icon"/>
-
+   
 	<!-- Fonts and icons -->
 	<script src="../js/plugin/webfont/webfont.min.js"></script>
 	<script>
@@ -21,7 +21,7 @@
 	<!-- CSS Files -->
 	<link rel="stylesheet" href="../css/bootstrap.min.css">
 	<link rel="stylesheet" href="../css/atlantis.min.css">
-
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
 	<!-- CSS Just for demo purpose, don't include it in your project -->
 	<link rel="stylesheet" href="../css/demo.css">
 </head>

@@ -24,7 +24,7 @@
 	<script src="../js/plugin/datatables/datatables.min.js"></script>
 
 	<!-- Bootstrap Notify -->
-	<script src="../js/plugin/bootstrap-notify/bootstrap-notify.min.js"></script>
+	{{-- <script src="../js/plugin/bootstrap-notify/bootstrap-notify.min.js"></script> --}}
 
 	<!-- jQuery Vector Maps -->
 	<script src="../js/plugin/jqvmap/jquery.vmap.min.js"></script>
